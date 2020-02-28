@@ -53,7 +53,8 @@ const styles = StyleSheet.create({
     fontSize: 15
   },
   desc:{
-    flex: 1, padding: 10, marginLeft: 8
+    flex: 1, padding: 10, marginLeft: 8,
+    justifyContent: 'center', alignItems: 'center'
   },
   quantity: {
     fontSize: 16, marginHorizontal: 7
